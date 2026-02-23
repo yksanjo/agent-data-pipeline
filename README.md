@@ -1,5 +1,12 @@
 # agent-data-pipeline
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-data-pipeline/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-data-pipeline/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-data-pipeline)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-data-pipeline)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-data-pipeline)
+
 ## Detailed Description
 
 agent-data-pipeline is maintained as an industry-grade software project with production-ready engineering practices.  
